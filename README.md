@@ -224,7 +224,6 @@ forest-wildfire-asca-yolo/
 📚 Citation
 If this project or the related paper contributes to your research, please cite our work:
 
-代码段
 @article{ASCA-YOLO2026,
   title={ASCA-YOLO: Adaptive Sparse and Context-Aware YOLO Algorithm for Forest Wildfire Detection},
   author={Hao, Yua and Wang, Kangning},
