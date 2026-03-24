@@ -245,7 +245,7 @@ If this project or the related paper contributes to your research, please cite o
 ```bibtex
 @article{ASCA-YOLO2026,
   title={ASCA-YOLO: Adaptive Sparse and Context-Aware YOLO Algorithm for Forest Wildfire Detection},
-  author={Hao, Yua and Wang, Kangning},
+  author={Hao, Yu and Wang, Kangning},
   year={2026},
 }
 ```
