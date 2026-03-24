@@ -176,8 +176,10 @@ Inference on Video/UAV Stream
 Bash
 # Video file
 python detect.py --weights weights/asca-yolo-best.pt --source test_videos/fire_video.mp4 --img 640
+
 # UAV real-time stream (RTSP/HTTP)
 python detect.py --weights weights/asca-yolo-best.pt --source rtsp://xxx.xxx.xxx.xxx:554/stream --img 640
+
 # Webcam (for testing)
 python detect.py --weights weights/asca-yolo-best.pt --source 0 --img 640
 Inference Output
@@ -224,6 +226,7 @@ forest-wildfire-asca-yolo/
 📚 Citation
 If this project or the related paper contributes to your research, please cite our work:
 
+代码段
 @article{ASCA-YOLO2026,
   title={ASCA-YOLO: Adaptive Sparse and Context-Aware YOLO Algorithm for Forest Wildfire Detection},
   author={Hao, Yua and Wang, Kangning},
